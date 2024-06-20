@@ -3,12 +3,12 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Encabezado from './Encabezado'
 import TarjetaEjercicios from './TarjetaEjercicios'
+import Template from './Template'
 
 function App() {
   return (
     <>
-      <Encabezado/>
-      <TarjetaEjercicios/>
+    <Template/>
       
     </>
   )
