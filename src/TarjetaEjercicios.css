@@ -1,0 +1,11 @@
+.ContenedorTarjeta{
+    width: 364px;
+    height: 83px;
+    background-color: #29292E;
+}
+.ImagenEjer{
+    width: 67px;
+    height: 67px;
+    top: 8px;
+    overflow: hidden;
+}
